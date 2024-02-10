@@ -4,5 +4,18 @@
   "artist": "Nobuko Taishi Seki",
   "author": "The Second Manga Research Club",
   "cover": "https://i.imgur.com/a11KGWO.png",
-  "chapters": {}
+  "chapters": {
+    "25": {
+      "title": "25",
+      "volume": "1",
+      "last_updated": "1707538261",
+      "groups": {
+        "The Second Manga Research Club": [
+          "https://drive.google.com/uc?export=view&id=1MU3RGceITSt4yPhbEgaee-C-3cuWDMX7",
+          "https://drive.google.com/uc?export=view&id=1xZHOqBhZ-LcNtBulEJ1LbzmCiUOa5uWt",
+          "https://drive.google.com/uc?export=view&id=1d_8JBF27sASzadzDxERdowXnLL3UZgYm"
+        ]
+      }
+    }
+  }
 }
